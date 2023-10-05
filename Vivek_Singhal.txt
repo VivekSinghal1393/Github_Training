@@ -1,1 +1,1 @@
-This is Vivek Singhal text file of Jenkins Training
+This is Vivek Singhal text file of Github Training
